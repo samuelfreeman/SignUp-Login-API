@@ -4,6 +4,8 @@ const app = express();
 
 const config = require('config');
 
+require('dotenv').config();
+
 const bodyParser = require('body-parser');
 
 const helmet = require('helmet');
@@ -38,4 +40,4 @@ app.use(async (req, res, next) => {
   );
 });
 
-app.listen(port);
+app.listen(3000);
