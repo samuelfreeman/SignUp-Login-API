@@ -18,7 +18,7 @@ require('dotenv').config();
 
 const apiRoute = require('./route/index');
 
-const port = config.get('port');
+// const port = config.get('port');
 
 app.use(compression());
 
