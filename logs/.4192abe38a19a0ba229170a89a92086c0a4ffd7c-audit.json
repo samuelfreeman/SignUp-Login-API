@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs/.4192abe38a19a0ba229170a89a92086c0a4ffd7c-audit.json",
+    "files": [
+        {
+            "date": 1703212412803,
+            "name": "logs/“NodeWinstonApp-2023-12-22-02.log",
+            "hash": "d554fe8205a80041b9356b4f2c927e295d63bd947ef6aba26600e2561a885e2e"
+        },
+        {
+            "date": 1703214026229,
+            "name": "logs/“NodeWinstonApp-2023-12-22-03.log",
+            "hash": "6a14447558288db6f84a25a9c3c54ae63de522e0622efa0085a67b32649254c4"
+        }
+    ],
+    "hashType": "sha256"
+}

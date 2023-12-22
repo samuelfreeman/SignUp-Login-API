@@ -1,0 +1,2 @@
+2023-12-22T02:40:43.081Z [31merror[39m:	data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2023-12-22T02:59:30.500Z [31merror[39m:	User has already registered!
